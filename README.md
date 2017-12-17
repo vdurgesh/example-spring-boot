@@ -1,4 +1,4 @@
-#Example application with spring-boot [CLI]
+# Example application with spring-boot [CLI]
 
 If you want to quick start without prior knowledge of java developement then looks at [Generate Spring Application](https://start.spring.io/)
 Or you can generate product with CLI with [SDKMAN](http://sdkman.io/).
