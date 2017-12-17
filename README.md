@@ -25,3 +25,8 @@ Steps to follow for CLI (Mac/terminal)
 7. Open http://localhost:8080 in browser.
  
 
+----
+With Maven
+
+1. look at /springboot module
+2. Run Java Class in example.SampleController  
